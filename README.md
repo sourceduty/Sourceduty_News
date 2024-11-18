@@ -14,6 +14,8 @@ Additionally, Sourceduty News employs a step-by-step multiple-choice process to 
 
 > Alex: "*Near the end of 2024, the 'information snowball" of Sourceduty is very organized, incomplete and expanding. Sourceduty needs more money so I can really build what needs to be expanded. This business is necessitating more and more work which is exactly what it should be doing.*"
 
+"*I plan ahead without wishing upon one single payday in the future.*"
+
 #
 ### Related Links
 
