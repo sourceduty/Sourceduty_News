@@ -65,6 +65,29 @@ If Sourceduty were to earn $10 million, the company would likely need to spend c
 Sourceduty should first consider expanding or investing in areas that directly enhance its core operations and long-term sustainability. This could involve investing in technology infrastructure to streamline operations, improve efficiency, and better serve its customers. Enhancing its digital presence, such as developing an advanced customer platform or integrating AI-driven analytics, could provide valuable insights and drive innovation. Additionally, expanding its workforce with specialized talent in areas like product development, marketing, or customer support could foster growth and improve service delivery. Investing in research and development would also be crucial to stay ahead in its industry, ensuring that Sourceduty can offer competitive, cutting-edge solutions. By focusing on these key areas, Sourceduty can lay a solid foundation for sustainable growth and competitive advantage.
 
 #
+### Top 10 Assets
+
+1. 3D Model Assets: Over 200 high-quality 3D models available for various applications. 
+
+2. GPT-Powered Assets: More than 800 custom GPT models tailored for diverse tasks. 
+
+3. Brand Pattern Generator: A Python-based tool for creating intricate geometric patterns inspired by businesses and brands. 
+
+4. Ship Fleet & Asset Simulator: A simulation tool replicating the tasks and interfaces of maritime management systems like Maximo, ShipNet, and MarineCFO. 
+
+5. Public Information Repositories: Projects dedicated to public science and jobs, promoting transparency and collaboration. 
+
+6. Custom Website Development: An ongoing project to create a comprehensive platform showcasing Sourceduty's digital assets and tools. 
+
+7. 3D Collaboration Initiatives: Efforts to collaborate with other businesses, brands, or artists in the 3D modeling domain. 
+
+8. Boats Design Collection: A curated selection of classic, luxury, high-performance, and heavy-duty boat designs. 
+
+9. Public Work Projects: Repositories and projects dedicated to public science and employment, emphasizing open-source collaboration. 
+
+10. Sourceduty Business Insights: Documentation detailing Sourceduty's business model, expansion plans, and strategic vision. 
+
+#
 ![Oyster World](https://github.com/user-attachments/assets/83b05637-da17-4cae-bfd5-a9e1da6258ec)
 
 #
