@@ -88,6 +88,11 @@ Sourceduty should first consider expanding or investing in areas that directly e
 10. Sourceduty Business Insights: Documentation detailing Sourceduty's business model, expansion plans, and strategic vision.
 
 #
+### Sponsorships
+
+![Sourceduty](https://github.com/user-attachments/assets/71a60204-7f16-4fbd-950a-bfafa0fb4588)
+
+#
 ### Investment Opportunities
 
 ```
