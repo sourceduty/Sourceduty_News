@@ -2,7 +2,7 @@
 
 > Updates and news about Sourceduty.
 
-#
+# 
 
 [Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news) was developed to deliver the latest news and updates about Alex Aldridge's company, Sourceduty. This custom GPT focuses on providing accurate, verified, and concise information to ensure that users stay well-informed about the company's activities. It aims to maintain a professional tone while engaging users with clear and relevant updates.
 
@@ -14,6 +14,11 @@ Additionally, Sourceduty News employs a step-by-step multiple-choice process to 
 2022 -------------------  2030 ---------------- 2050 - - - - - - - - - - - - - - - - -   
 |→ Business Establishment |→ Business Expansion |→ Business Operations →|
 ```
+
+#
+###  AI Revolution
+
+AI is changing the game, bringing massive focus to how information is used, how laws are shaped, and how institutions like police, governments, schools, and security systems operate. At Sourceduty, we recognize this shift and the responsibility that comes with it. As the world navigates these changes, we’re committed to staying informed, adapting to new regulations, and creating solutions that prioritize transparency, ethical practices, and the protection of personal freedoms. These developments impact everyone, and we’re dedicated to ensuring our work supports a future where AI is used responsibly and thoughtfully.
 
 #
 ### Sourceduty Expansion and Future
