@@ -139,7 +139,8 @@ AI-Powered Customer Experience Platforms
 
 #
 ![Oyster World](https://github.com/user-attachments/assets/83b05637-da17-4cae-bfd5-a9e1da6258ec)
-
+#
+![Science](https://github.com/user-attachments/assets/2c65ec23-2e04-47e9-9211-d763867d65fd)
 #
 
 > Alex: "*Near the end of 2024, the 'information snowball" of Sourceduty is very organized, incomplete and expanding. Sourceduty needs more money so I can really build what needs to be expanded. This business is necessitating more and more work which is exactly what it should be doing.*"
