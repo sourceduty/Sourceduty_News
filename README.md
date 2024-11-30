@@ -15,6 +15,10 @@ Additionally, Sourceduty News employs a step-by-step multiple-choice process to 
 |→ Business Establishment |→ Business Expansion |→ Business Operations →|
 ```
 
+Sourceduty's business establishment phase in 2022 marked a critical period of laying its foundation as a creative digital company focused on open-source code, concept development, and creative inspiration. During this time, the organization likely concentrated on crafting its vision, defining its brand identity, and establishing its initial operational and organizational structure. Key activities may have included conducting market research to identify opportunities and demand within its niche, developing its service offerings, and securing the necessary funding and resources to launch effectively. This phase also involved registering the business as a sole proprietorship under Canadian regulations, ensuring compliance with taxation, licensing, and other legal requirements essential for starting operations.
+
+The establishment phase also served as a platform for creating Sourceduty’s online presence, including its website, which became the primary medium for showcasing its creative capabilities and engaging with its target audience. Strategic planning and resource allocation during this stage were vital in setting up the company for its future growth and operational expansion. Building partnerships, cultivating a client base, and gaining visibility in the market likely formed an integral part of this period. By establishing a strong foundation, Sourceduty was able to position itself to transition seamlessly into the subsequent phase of business expansion while maintaining its core creative values.
+
 #
 ### No Formal Schooling
 
