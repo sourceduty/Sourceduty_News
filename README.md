@@ -63,9 +63,9 @@ Alex Aldridge’s unwavering dedication to Sourceduty ensures that the company w
 Sourceduty Owner
   |
   v
-  ------------------------------------------------------------------------------
-  |                   |                   |            |                       |
-General Manager   Software Developer    3D Modeller   Social Media         Researcher
+  -----------------------------------------------------------------------------------------------
+  |                   |                   |            |                       |                |
+General Manager   Software Developer    3D Modeller   Social Media         Researcher      Mobile App Dev
                   & Manager                            & Sales Manager
 ```
 
