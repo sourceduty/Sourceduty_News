@@ -16,6 +16,11 @@ Additionally, Sourceduty News employs a step-by-step multiple-choice process to 
 ```
 
 #
+### No Formal Schooling
+
+The success of Sourceduty under Alex's leadership underscores that formal education is not the sole path to business success. By leveraging self-taught skills and a commitment to innovation, Alex has positioned Sourceduty as a growing entity in the digital landscape. This example illustrates that with determination and continuous self-improvement, individuals can overcome traditional educational barriers to build successful enterprises.
+
+#
 ###  AI Revolution
 
 AI is rapidly transforming society, drawing significant attention to how information is managed, how laws are enforced, and how institutions such as schools, governments, and security systems adapt. This shift highlights the growing need for transparency, ethical standards, and responsible innovation to address emerging challenges. As regulations evolve and public concerns rise, staying informed and proactive is essential to ensure that AI supports a secure, fair, and equitable future for all.
