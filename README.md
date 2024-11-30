@@ -34,7 +34,7 @@ The success of Sourceduty under Alex's leadership underscores that formal educat
 #
 ###  AI Revolution
 
-![2024](https://github.com/user-attachments/assets/b625357f-e903-4507-93fb-26b4f064daa0)
+![2024](https://github.com/user-attachments/assets/0851f268-45ef-4bfe-906d-189b345cb590)
 
 AI is rapidly transforming society, drawing significant attention to how information is managed, how laws are enforced, and how institutions such as schools, governments, and security systems adapt. This shift highlights the growing need for transparency, ethical standards, and responsible innovation to address emerging challenges. As regulations evolve and public concerns rise, staying informed and proactive is essential to ensure that AI supports a secure, fair, and equitable future for all.
 
