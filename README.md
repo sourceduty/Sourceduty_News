@@ -10,6 +10,9 @@ The primary goal of Sourceduty News is to avoid speculation and focus solely on 
 
 Additionally, Sourceduty News employs a step-by-step multiple-choice process to guide users through their queries. This structured approach enhances the user experience by making interactions more straightforward and focused. The custom GPT's design reflects a commitment to clarity and efficiency, providing users with a seamless way to access the latest information about Sourceduty.
 
+#
+### Business Timeline
+
 ```
 2022 -------------------  2030 ---------------- 2050 - - - - - - - - - - - - - - - - -   
 |→ Business Establishment |→ Business Expansion |→ Business Operations →|
