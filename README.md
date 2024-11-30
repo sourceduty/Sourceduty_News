@@ -18,6 +18,8 @@ Additionally, Sourceduty News employs a step-by-step multiple-choice process to 
 #
 ### No Formal Schooling
 
+![Self-Teaching](https://github.com/user-attachments/assets/fbf8922f-8e34-4b3b-9386-9c9565de7395)
+
 The success of Sourceduty under Alex's leadership underscores that formal education is not the sole path to business success. By leveraging self-taught skills and a commitment to innovation, Alex has positioned Sourceduty as a growing entity in the digital landscape. This example illustrates that with determination and continuous self-improvement, individuals can overcome traditional educational barriers to build successful enterprises.
 
 #
