@@ -11,6 +11,13 @@ The primary goal of Sourceduty News is to avoid speculation and focus solely on 
 Additionally, Sourceduty News employs a step-by-step multiple-choice process to guide users through their queries. This structured approach enhances the user experience by making interactions more straightforward and focused. The custom GPT's design reflects a commitment to clarity and efficiency, providing users with a seamless way to access the latest information about Sourceduty.
 
 #
+### Shared Files
+
+![Files](https://github.com/user-attachments/assets/c9b1637b-f3cf-4a25-bb80-67fb3778017d)
+
+Sourceduty shares files using a OneDrive that's meticulously organized into three main categories: Business, Design & Engineering, and Science & Research, each containing a diverse range of subfolders tailored to specific topics. The Business folder focuses on professional content, including business concepts, notes, licenses, and media files, providing resources for strategic and operational tasks. The Design & Engineering folder is expansive, covering disciplines like 3D structural design, electronics, mechanics, software, and graphic design, reflecting a comprehensive approach to creative and technical projects. The Science & Research folder spans multiple scientific domains, from chemistry and biology to space exploration and environmental studies, accompanied by detailed research data, experiments, and theoretical models. With over 8.5 GB of organized content, this OneDrive demonstrates a highly structured approach to managing professional, technical, and academic resources, ensuring efficiency and accessibility.
+
+#
 ### Business Timeline
 
 ```
@@ -166,6 +173,10 @@ AI-Powered Customer Experience Platforms
 > Alex: "*Near the end of 2024, the 'information snowball" of Sourceduty is very organized, incomplete and expanding. Sourceduty needs more money so I can really build what needs to be expanded. This business is necessitating more and more work which is exactly what it should be doing.*"
 
 > "*I plan ahead without wishing upon one single payday in the future.*"
+
+
+#
+Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 
 #
 ### Related Links
