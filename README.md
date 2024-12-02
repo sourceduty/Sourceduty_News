@@ -13,6 +13,8 @@ Additionally, Sourceduty News employs a step-by-step multiple-choice process to 
 #
 ### New Name
 
+![Sourceduty Offices](https://github.com/user-attachments/assets/965e3d73-ad74-4c25-84ed-eed7aed45107)
+
 Sourceduty could be rebranded. Rebranding Sourceduty requires a thoughtful approach that captures the essence of its audiences and industries. This new business name or brand should reflect the company's commitments. It should be memorable, convey a sense of forward-thinking, and encapsulate the company. This new business name should also be easy to remember and pronounce, ensuring it's remembered in the minds of potential clients and the broader community. A rebranded Sourceduty should have a modern, professional feel that aligns with the company's values and ambitions.
 
 #
