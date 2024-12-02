@@ -176,7 +176,7 @@ AI-Powered Customer Experience Platforms
 
 
 #
-Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
+Sourceduty also offers [services](https://github.com/sourceduty/Sourceduty_Services).
 
 #
 ### Related Links
