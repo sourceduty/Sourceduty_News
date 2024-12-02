@@ -190,8 +190,6 @@ Sourceduty also offers [services](https://github.com/sourceduty/Sourceduty_Servi
 [Doors Loopy](https://github.com/sourceduty/Doors_Loopy)
 <br>
 [Sourceduty GPT](https://chatgpt.com/g/g-MG4CqF034-sourceduty)
-<br>
-[Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
