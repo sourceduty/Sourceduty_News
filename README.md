@@ -34,7 +34,7 @@ The establishment phase also served as a platform for creating Sourceduty’s on
 #
 ### No Formal Schooling
 
-![Self-Teaching](https://github.com/user-attachments/assets/fbf8922f-8e34-4b3b-9386-9c9565de7395)
+![Alex](https://github.com/user-attachments/assets/c8a19010-12a7-401d-8f20-f0dc4c7e277d)
 
 The success of Sourceduty under Alex's leadership underscores that formal education is not the sole path to business success. By leveraging self-taught skills and a commitment to innovation, Alex has positioned Sourceduty as a growing entity in the digital landscape. This example illustrates that with determination and continuous self-improvement, individuals can overcome traditional educational barriers to build successful enterprises.
 
@@ -81,7 +81,6 @@ Sourceduty Owner
 General Manager   Software Developer    3D Modeller   Social Media         Researcher      Mobile App Dev
                   & Manager                            & Sales Manager
 ```
-
 ```
 [Alex Aldridge]
 |
@@ -172,6 +171,8 @@ AI-Powered Customer Experience Platforms
 ![Oyster World](https://github.com/user-attachments/assets/83b05637-da17-4cae-bfd5-a9e1da6258ec)
 #
 ![Science](https://github.com/user-attachments/assets/2c65ec23-2e04-47e9-9211-d763867d65fd)
+#
+![Self-Teaching](https://github.com/user-attachments/assets/fbf8922f-8e34-4b3b-9386-9c9565de7395)
 #
 
 > Alex: "*Near the end of 2024, the 'information snowball" of Sourceduty is very organized, incomplete and expanding. Sourceduty needs more money so I can really build what needs to be expanded. This business is necessitating more and more work which is exactly what it should be doing.*"
