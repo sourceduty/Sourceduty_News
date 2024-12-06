@@ -70,7 +70,7 @@ Looking beyond 2030, Sourceduty envisions a future where it becomes a central hu
 Alex Aldridge’s unwavering dedication to Sourceduty ensures that the company will maintain its core values of openness, creativity, and technological innovation well into the mid-21st century. As the digital world continues to evolve, Sourceduty’s adaptability and relentless pursuit of innovation will position it as a leader in the digital space, influencing and inspiring future generations of digital creators and developers.
 
 #
-### Business Modelling
+### Concept Business Models
 
 ```
 Sourceduty Owner
