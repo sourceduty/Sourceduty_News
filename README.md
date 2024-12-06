@@ -34,7 +34,7 @@ The establishment phase also served as a platform for creating Sourceduty’s on
 #
 ### No Formal Schooling
 
-![Alex](https://github.com/user-attachments/assets/c8a19010-12a7-401d-8f20-f0dc4c7e277d)
+![Learned](https://github.com/user-attachments/assets/84dae858-aa26-432c-b029-f837982e8f7a)
 
 The success of Sourceduty under Alex's leadership underscores that formal education is not the sole path to business success. By leveraging self-taught skills and a commitment to innovation, Alex has positioned Sourceduty as a growing entity in the digital landscape. This example illustrates that with determination and continuous self-improvement, individuals can overcome traditional educational barriers to build successful enterprises.
 
