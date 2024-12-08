@@ -179,6 +179,7 @@ AI-Powered Customer Experience Platforms
 
 > "*I plan ahead without wishing upon one single payday in the future.*"
 
+> "*The initial development 'phase' of the AI revolution will extend for 2 years or more.*
 
 #
 Sourceduty also offers [services](https://github.com/sourceduty/Sourceduty_Services).
